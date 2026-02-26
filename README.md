@@ -118,7 +118,22 @@ Once running, the frontend will be accessible at `http://localhost:3000` and the
   ]
 }
 ```
+## 📷 Screenshots
 
+### Login Page
+![Login](frontend/public/screenshots/Login%20page.png)
+
+### Dashboard
+![Dashboard](frontend/public/screenshots/Dashboard.png)
+
+### Add Leads
+![Add Leads](frontend/public/screenshots/Add-leads.png)
+
+### Edit Leads
+![Edit Leads](frontend/public/screenshots/Edit-leads.png)
+
+### Delete Leads
+![Delete Leads](frontend/public/screenshots/Delete-leads.png)
 ---
 
 ## 💡 Code Quality & Structure
